@@ -1,1 +1,1 @@
-// auto-maintained: 2026-10-18.5 build: 1792328011
+// auto-maintained: 2026-11-22.5 build: 1795366062
